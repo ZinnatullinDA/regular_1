@@ -1,3 +1,3 @@
-# Классы наследования методы
+# Регулярные выражения
 
-![CI](https://github.com/ZinnatullinDA/class_inherit_2/actions/workflows/main.yml/badge.svg)
+![CI](https://github.com/ZinnatullinDA/regular_1/actions/workflows/main.yml/badge.svg)
